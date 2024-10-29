@@ -5,7 +5,7 @@ da = deg2rad(-45:5:45);
 de = deg2rad(-45:5:45);
 dr = deg2rad(-45:5:45);
 
-beta_pos = 5; % percent change from default params wrt positive beta
+beta_pos = 2; % percent change from default params wrt positive beta
 beta_neg = -2; % percent change from default params wrt negative beta
 beta_coeff = zeros(length(Beta),1);
 
